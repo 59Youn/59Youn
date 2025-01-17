@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 🙋‍♀️ 안녕하세요, `Frontend-Enginner`를 지망하는 <mark>윤지선</mark>입니다!
 * ✌️ 성실의 아이콘! [HPE]프론트엔드 개발자 아카데미 2기 "최우수훈련생"으로 수료했습니다.
 * 🤝 커뮤니케이션을 중요시하며, 팀원으로서 협업을 즐깁니다.
-* 📖 현재 꾸준히 `React` 공부 중입니다.
+* 📖 현재 꾸준히 `Typescript`, `Next.js` 공부 중입니다.
 
 <!-- Body -->
 <br>
